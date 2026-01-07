@@ -1,6 +1,6 @@
 # 조은희
 
-[📧 joeun2ce@gmail.com](mailto:joeun2ce@gmail.com) | [🌐 linkedin.com/in/eun2ce](https://www.linkedin.com/in/eun2ce) | [💻 github.com/eun2ce](https://github.com/eun2ce)
+[📧 joeun2ce@gmail.com](mailto:joeun2ce@gmail.com) | [🌐 linkedin.com/in/eun2ce](https://www.linkedin.com/in/eun2ce) | [💻 github.com/eun2ce](https://github.com/aug6th)
 
 ## 스킬
 
@@ -61,7 +61,7 @@
 
 ---
 
-지인분의 평가는 [Pull Request](https://github.com/eun2ce/RESUME/pulls) 로 받고있습니다.
+지인분의 평가는 [Pull Request](https://github.com/aug6th/RESUME/pulls) 로 받고있습니다.
 > [PR 남기는 방법](https://eun2ce.github.io/posts/how-to-contribute-github/)
 
 또는 익명으로 남기고 싶다면
@@ -74,5 +74,5 @@
 <!--
 ## References
 - https://github.com/JSpiner/RESUME
-- https://github.com/eun2ce/RESUME
+- https://github.com/aug6th/RESUME
 -->
