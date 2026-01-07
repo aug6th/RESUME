@@ -1,6 +1,6 @@
 # 조은희
 
-[📧 joeun2ce@gmail.com](mailto:joeun2ce@gmail.com) | [🌐 linkedin.com/in/eun2ce](https://www.linkedin.com/in/likehee) | [💻 github.com/aug6th](https://github.com/aug6th)
+[📧 joeun2ce@gmail.com](mailto:joeun2ce@gmail.com) | [🌐 linkedin.com/in/likehee](https://www.linkedin.com/in/likehee) | [💻 github.com/aug6th](https://github.com/aug6th)
 
 ## 스킬
 
@@ -61,11 +61,8 @@
 
 ---
 
-지인분의 평가는 [Pull Request](https://github.com/aug6th/RESUME/pulls) 로 받고있습니다.
-> [PR 남기는 방법](https://eun2ce.github.io/posts/how-to-contribute-github/)
-
-또는 익명으로 남기고 싶다면
-> [스펙터(Specter)](https://www.specter.co.kr/) 에서 평판을 남겨주세요.
+지인분의 평가는 [Pull Request](https://github.com/aug6th/RESUME/pulls) 로 받고있습니다.  
+또는 익명으로 남기고 싶다면 [스펙터(Specter)](https://www.specter.co.kr/) 에서 평판을 남겨주세요.
 
 ---
 
