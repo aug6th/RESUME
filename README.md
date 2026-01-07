@@ -1,6 +1,6 @@
 # 조은희
 
-[📧 joeun2ce@gmail.com](mailto:joeun2ce@gmail.com) | [🌐 linkedin.com/in/eun2ce](https://www.linkedin.com/in/eun2ce) | [💻 github.com/eun2ce](https://github.com/aug6th)
+[📧 joeun2ce@gmail.com](mailto:joeun2ce@gmail.com) | [🌐 linkedin.com/in/eun2ce](https://www.linkedin.com/in/eun2ce) | [💻 github.com/aug6th](https://github.com/aug6th)
 
 ## 스킬
 
